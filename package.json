@@ -1,0 +1,16 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/Release/hello",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "gypfile": true,
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "nan": "^2.14.1"
+  }
+}
